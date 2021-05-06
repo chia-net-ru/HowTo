@@ -4,11 +4,11 @@
 1. Регистрируемся на hpool. Подтверждаем свою учетную запись по номеру телефона. (на момент написания инструкции смс в РФ не приходят, можно воспользоваться сервисами для покупки временных сим-карт. Не переживайте, вам этот номер понадобится только при выводе средств, его можно будет поменять на любой перед выводом, но в РФ не придет смс :D универсального решения на данный момент нет. Если найдете – пишите, дополню инструкцию)
 
 2. Скачиваем из центра загрузок `CHIA-plotter`
-![screen1](hpool/img/1.png "View")
-![screen2](hpool/img/2.png "View")
+![screen1](https://github.com/chia-net-ru/HowTo/blob/main/hpool/img/1.png?raw=true "View")
+![screen2](https://github.com/chia-net-ru/HowTo/blob/main/hpool/img/1.png?raw=true)
 
 3. Здесь вам нужно ввести вашу мнемоническую фразу (много разных слов, которые вы получили при создании кошелька)
-![screen3](hpool/img/3.png "View")
+![screen3](hpool/img/3.png?raw=true "View")
 
 4. Сверяем наш fingerprint с тем, что написан в Chia Blockchain
 ![screen4](hpool/img/4.png "View")
